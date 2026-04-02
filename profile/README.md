@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://via.placeholder.com/200/000000/8A2BE2?text=N" alt="Nova Co. Logo" width="180" />
+  <img src="NovaCo.png" alt="Nova Co. Logo" width="180" />
 
-  # 🌌 Welcome to Nova Co.
+  # Welcome to Nova Co.
   
   **Crafting high-performance mods, plugins, and APIs for the Minecraft ecosystem.**
   
