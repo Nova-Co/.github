@@ -42,7 +42,3 @@ We utilize a modern tech stack to ensure performance, security, and scalability 
 </div>
 
 ---
-
-<div align="center">
-  <i>"Transforming logic into stellar solutions."</i>
-</div>
